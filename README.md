@@ -21,7 +21,7 @@ As Founder & Director of FBIP, a Website Design, development, and digital market
 
 
 ## 🌐 Socials:
-[![FBIP Website](https://img.shields.io/badge/FBIPool-6254E7?logo=googlechrome&logoColor=white)](https://fbipool.com/)
+[![FBIP Website](https://img.shields.io/badge/FBIP-6254E7?logo=googlechrome&logoColor=white)](https://fbipool.com/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fbip2018) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbip2018) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fbip2018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sanyam-sahalot) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fbipool) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fbip2018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsahalot@gmail.com) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/fbip2018) [![FBIP India](https://img.shields.io/badge/FBIP.in-FF7426?logo=googlechrome&logoColor=white)](https://fbip.in/)
 
 # 💻 Tech Stack:
