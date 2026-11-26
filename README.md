@@ -2,9 +2,27 @@
 # 💫 About Me:
 Hi, I’m Sanyam Sahalot! 👋<br><br>A passionate Full Stack Developer from Udaipur, Rajasthan, India, leading FBIP Website Designing And Development Company for the past 7 years. With a brilliant team of 12 experts, we've successfully delivered 650+ projects worldwide! 🌍✨<br><br>We specialize in Website & Mobile App Development 📱💻 using WordPress, Shopify, Laravel, React.js, and Flutter. Alongside, we drive Digital Marketing success through Google Ads, Meta Ads, SMM, and SEO 🚀📈<br><br>Always excited to build, innovate, and grow! Let’s connect! 🤝💡
 
+As Founder & Director of FBIP, a Website Design, development, and digital marketing company, I've led a talented team of 12 professionals for over 7 years, delivering 600+ projects worldwide. 🌍
+
+🚀 **Our Expertise:**
+
+- Website Design & Development
+- Mobile Application Development
+- Custom Software, ERP & CRM Development
+- E-commerce Development
+- UI/UX Design & Branding
+- AI & Business Automation
+- Digital Marketing & SEO
+
+
+🌐 **Official Websites:**
+- [www.fbipool.com](https://fbipool.com/)
+- [www.fbip.in](https://fbip.in/)
+
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fbip2018) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbip2018) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fbip2018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sanyam-sahalot) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fbipool) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fbip2018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsahalot@gmail.com) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/fbip2018)
+[![FBIP Website](https://img.shields.io/badge/FBIPool-6254E7?logo=googlechrome&logoColor=white)](https://fbipool.com/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fbip2018) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbip2018) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fbip2018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sanyam-sahalot) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fbipool) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fbip2018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsahalot@gmail.com) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/fbip2018) [![FBIP India](https://img.shields.io/badge/FBIP.in-FF7426?logo=googlechrome&logoColor=white)](https://fbip.in/)
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
